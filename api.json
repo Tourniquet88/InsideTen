@@ -34,5 +34,8 @@
         "version": "Redstone 1",
         "more": "http://14295",
         "release_date": "21th April, 2016"
+    },
+    "internal":{
+      "build": "14335.1000"
     }
 }
