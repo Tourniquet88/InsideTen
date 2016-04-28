@@ -1,35 +1,35 @@
 {
-    "pc-wrp": {
+    "pcwrp": {
         "build": "10586.240",
         "version": "Threshold 2",
         "more": "http://10586.217",
         "release_date": "21th April, 2016"
     },
-    "pc-wif": {
+    "pcwif": {
         "build": "14332",
         "version": "Redstone 1",
         "more": "http://14332",
         "release_date": "25th April, 2016"
     },
-    "pc-wis": {
+    "pcwis": {
         "build": "14295",
         "version": "Redstone 1",
         "more": "http://14295",
         "release_date": "26th April, 2016"
     },
-    "mo-wrp": {
+    "mowrp": {
         "build": "10586.242",
         "version": "Threshold 2",
         "more": "http://10586.242",
         "release_date": "11th April, 2016"
     },
-    "mo-wif": {
+    "mowif": {
         "build": "14332",
         "version": "Redstone 1",
         "more": "http://14332",
         "release_date": "21th April, 2016"
     },
-    "mo-wis": {
+    "mowis": {
         "build": "14295",
         "version": "Redstone 1",
         "more": "http://14295",
