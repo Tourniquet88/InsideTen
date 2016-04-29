@@ -172,7 +172,7 @@ footer li a:focus { text-decoration: none }
 }
 .internal-builds .btn {
     width: 140px;
-    display: none;
+    display: block;
     overflow: hidden;
     transition: all .3s ease-in-out;
     text-transform: uppercase;
@@ -185,4 +185,4 @@ footer li a:focus { text-decoration: none }
     color: #095A99 !important;
     border-color: #fff !important;
 }
-.inc-source .btn { display: block }
+.inc-source .btn { display: none }
