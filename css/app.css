@@ -6,7 +6,6 @@ img {
     -webkit-user-select: none;
     -ms-user-select: none;
 }
-
 .choosedevices {
     padding: 0px;
     margin: 0px;
@@ -15,29 +14,22 @@ img {
     font-weight: 400;
     opacity: 0.6;
 }
-
 .insider-builds .nav-tabs {
     margin-top: 10px !important;
     padding: 0px;
     margin: 0px;
 }
-
-* {
-    outline: none !important;
-}
-
+* { outline: none !important }
 .insider-builds .nav-tabs li {
     color: #fff !important;
     text-transform: uppercase;
     margin-right: 10px;
     background-color: #0078D7;
 }
-
 .nav-tabs>li.active>a {
     color: #fff !important;
     opacity: 1.0;
 }
-
 .nav-tabs>li>a {
     color: #fff !important;
     opacity: 0.7;
@@ -47,21 +39,13 @@ img {
     text-align: center;
     font-size: 16px !important;
 }
-
 .list-builds {
     display: block;
     overflow: hidden;
     margin-top: 20px;
 }
-
-.list-builds .col-md-8 {
-    padding-left: 0px;
-}
-
-.list-builds .build-release-item {
-    margin-right: 5px;
-}
-
+.list-builds .col-md-8 { padding-left: 0px }
+.list-builds .build-release-item { margin-right: 5px }
 .list-builds .build-release-item a {
     display: block;
     padding: 20px;
@@ -69,50 +53,36 @@ img {
     background-color: #0078D7;
     text-decoration: none;
 }
-
-.list-builds .build-release-item a:hover, .list-builds .build-release-item a:focus, .list-builds .build-release-item a:active {
-    background-color: #0565B2;
-}
-
+.list-builds .build-release-item a:hover,
+.list-builds .build-release-item a:focus,
+.list-builds .build-release-item a:active { background-color: #0565B2 }
 .list-builds .build-release-item .build-name-ring {
     padding: 0px;
     font-weight: 400;
     text-transform: uppercase;
     font-size: 17px;
 }
-
-.list-builds .build-release-item h3 {
-    padding-top: 8px !important;
-}
-
-.list-builds .build-release-item .build-version, .list-builds .build-release-item .release-date {
+.list-builds .build-release-item h3 { padding-top: 8px !important }
+.list-builds .build-release-item .build-version,
+.list-builds .build-release-item .release-date {
     font-weight: 400;
     text-transform: uppercase;
     font-size: 15px;
     opacity: 0.9;
 }
-
 .list-builds .build-release-item .release-date {
     display: block;
     padding-bottom: 0px;
 }
-
 .ninja {
     width: 200px;
     height: auto;
     margin-top: 20px;
 }
-
 @media (max-width: 1398px) {
-    .col-md-8 {
-        width: 31%;
-    }
-
-    .internal-build-inside{
-      width: 93%;
-    }
+    .col-md-8 { width: 31% }
+    .internal-build-inside { width: 93% }
 }
-
 @media (max-width: 900px) {
     .col-md-8 {
         width: 100%;
@@ -121,13 +91,11 @@ img {
         margin-right: 0 !important;
         margin-bottom: 10px;
     }
-
-    .internal-build-inside{
-      width: 100%;
-      margin-right: 10px;
+    .internal-build-inside {
+        width: 100%;
+        margin-right: 10px;
     }
 }
-
 @media (max-width: 768px) {
     .ninja-cat {
         width: 100px;
@@ -135,57 +103,86 @@ img {
         height: auto;
         overflow: hidden;
     }
-
     .ninja {
         width: 100px;
         float: left;
     }
 }
-
 @media (max-width: 500px) {
-    .jumbotron  .type-h3, .jumbotron p {
-        padding-top: 15px;
+    .jumbotron  .type-h3,
+    .jumbotron p { padding-top: 15px }
+}
+.internal-build-inside {
+    background-color: #0078D7;
+    margin-top: 15px;
+    margin-right: 15px;
+    color: #fff;
+    padding: 20px;
+}
+.internal-build-text {
+    font-size: 17px;
+    padding-top: 5px !important;
+}
+.internal-build-inside  h3 {
+    padding-top: 0px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 22px;
+    font-family: "Segoe UI Semilight","Segoe UI","Selawik Semilight",Tahoma,Verdana,Arial,sans-serif;
+}
+.internal-build-inside a,
+.internal-build-inside a:hover,
+.internal-build-inside a:focus {
+    color: #fff;
+    text-decoration: none;
+}
+footer img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    overflow: hidden;
+    padding: 20px;
+    width: 200px;
+    height: auto;
+    padding-bottom: 10px;
+}
+footer { text-align: center }
+footer p {
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer ul {
+    list-style-type: none;
+    display: inline-block;
+}
+footer li {
+    float: left;
+    margin-right: 20px;
+}
+footer li a { color: #000 }
+footer li a:hover,
+footer li a:focus { text-decoration: none }
+@media (max-width: 592px) {
+    footer li {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: center;
     }
 }
-
-.internal-build-inside{
-  background-color: #0078D7;
-  margin-top: 15px;
-  margin-right: 15px;
-  color: #fff;
-  padding: 20px;
+.internal-builds .btn {
+    width: 140px;
+    display: none;
+    overflow: hidden;
+    transition: all .3s ease-in-out;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #fff !important;
+    background-color: #095A99 !important;
 }
-
-.internal-build-text{
-  font-size: 17px;
-  padding-top: 5px !important;
+.internal-builds .btn:hover {
+    background-color: #fff !important;
+    color: #095A99 !important;
+    border-color: #fff !important;
 }
-
-.internal-build-inside  h3{
-  padding-top: 0px;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 22px;
-  font-family: "Segoe UI Semilight","Segoe UI","Selawik Semilight",Tahoma,Verdana,Arial,sans-serif;
-}
-
-.internal-build-inside a, .internal-build-inside a:hover, .internal-build-inside a:focus{
-  color: #fff;
-  text-decoration: none;
-}
-
-footer img{
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  overflow: hidden;
-  padding: 20px;
-  width: 250px;
-  height: auto;
-  padding-bottom: 0px;
-}
-
-footer p{
-  text-align: center;
-  padding-bottom: 20px;
-}
+.inc-source .btn { display: block }

@@ -79,8 +79,13 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-fast a").attr("href", mo_wif_more);
          $(".insider-builds .list-builds #i-mobile .insider-slow a").attr("href", mo_wis_more);
 
+         if (json.internal.source != "") {
+            $(".internal-build-inside").addClass("inc-source");
+            $(".internal-builds .btn").attr("href", json.internal.source);
+          }
+
          $(".internal-builds .internal-build-inside h3").append(json.internal.build);
-         $(".internal-build-text").append("According to our sources, Microosft is currently testing Windows 10 Build " + json.internal.build + " internally. Of course, Microsoft is testing new builds everyday, so this build may not be the very latest one. However, check back in a few hours to get more updates or <a href='http://twitter.com/InsideTen_' target='_blank'>follow us on Twitter here.</a>");
+         $(".internal-build-text").append("According to our sources, Microsoft is currently testing Windows 10 Build " + json.internal.build + " internally. Of course, Microsoft is testing new builds everyday, so this build may not be the very latest one. However, check back in a few hours to get more updates or <a href='http://twitter.com/InsideTen_' target='_blank'>follow us on Twitter here.</a>");
      }
   });
 });
