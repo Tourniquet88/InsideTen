@@ -1,4 +1,4 @@
-# [Inside Ten](insideten.xyz)
+# [Inside Ten](http://insideten.xyz)
 
 Inside Ten lets you get the info about the latest builds that get released to the Windows Insider program. You can get info about Insider Fast, Slow, and more Insider rings here! Additionally, you will also get info about the latest internal build of Windows 10 here: [insideten.xyz](http://insideten.xyz)
 
