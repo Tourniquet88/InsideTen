@@ -1,1 +1,153 @@
-<H2>Test</h2>
+<html>
+  <head>
+    <title>Inside Ten</title>
+    <link rel="stylesheet" href="css/base.css" />
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/base.js"></script>
+    <script src="js/vendor/app.js"></script>
+    <link rel="stylesheet" href="css/app.css" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="./assets/icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="./assets/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="./assets/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="./assets/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./assets/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="./assets/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="./assets/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="./assets/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="./assets/icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="./assets/icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="./assets/icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="./assets/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="./assets/icons/manifest.json">
+    <link rel="shortcut icon" href="./assets/icons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="./assets/icons/mstile-144x144.png">
+    <meta name="msapplication-config" content="./assets/icons/browserconfig.xml">
+    <meta name="theme-color" content="#0078d7">
+
+  </head>
+
+  <body>
+    <!--Introduction-->
+    <div class="jumbotron theme-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-md-push-12 text-center ninja-cat">
+                    <img class="ninja img-responsive visible-xs-inline-block visible-sm-inline-block visible-md-inline-block visible-lg-inline-block visible-xl-inline-block" alt="" src="./assets/ninja-2.png" data-source-index="2">
+                </div>
+                <div class="col-md-12 col-md-pull-12">
+                    <div class="type-h3">
+                        Inside Ten
+                    </div>
+                    <div class="type-sh3">
+                        Get the latest Windows Insider program updates
+                    </div>
+                    <p>InsideTen lets you get the info about the latest builds that get released to the Windows Insider program. You can get info about Insider Fast, Slow, and more Insider rings here!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Insider builds-->
+    <div class="insider-builds container">
+      <h3>Windows Insider Builds</h3>
+
+      <h4 class="choosedevices">Choose device:</h4>
+      <ul class="nav nav-tabs" role="tablist">
+          <li class="active"><a href="#i-pc" aria-controls="i-pc" role="tab" data-toggle="tab">PC</a></li>
+          <li><a href="#i-mobile" aria-controls="i-mobile" role="tab" data-toggle="tab">Mobile</a></li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content list-builds">
+          <div role="tabpanel" class="tab-pane active" id="i-pc">
+
+            <div class="build-release-item col-md-8 insider-release-preview">
+              <a href="">
+                <h4 class="build-name-ring">Release Preview</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+            <div class="build-release-item col-md-8 insider-fast">
+              <a href="">
+                <h4 class="build-name-ring">Insider Fast</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+            <div class="build-release-item col-md-8 insider-slow">
+              <a href="">
+                <h4 class="build-name-ring">Insider Slow</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+          </div>
+          <div role="tabpanel" class="tab-pane" id="i-mobile">
+
+            <div class="build-release-item col-md-8 insider-release-preview">
+              <a href="">
+                <h4 class="build-name-ring">Release Preview</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+            <div class="build-release-item col-md-8 insider-fast">
+              <a href="">
+                <h4 class="build-name-ring">Insider Fast</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+            <div class="build-release-item col-md-8 insider-slow">
+              <a href="">
+                <h4 class="build-name-ring">Insider Slow</h4>
+                <h3 class="build-number"></h3>
+                <div class="build-release-item-sub">
+                  <span class="build-version"></span>
+                  <span class="release-date"></span>
+                </div>
+              </a>
+            </div>
+
+          </div>
+      </div>
+    </div>
+
+    <!--Internal Builds-->
+    <div class="internal-builds container">
+      <div class="internal-build-inside">
+        <h3>Latest Internal Build: </h3>
+        <p class="internal-build-text"></p>
+      </div>
+    </div>
+
+    <footer class="container">
+      <img src="./assets/ninja.png"/>
+      <p>Made with ♥ by <a href="http://twitter.com/mehedih_">Mehedi Hassan</a></p>
+    </footer>
+  </body>
+</html>
