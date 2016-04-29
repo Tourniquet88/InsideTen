@@ -79,7 +79,7 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-fast a").attr("href", mo_wif_more);
          $(".insider-builds .list-builds #i-mobile .insider-slow a").attr("href", mo_wis_more);
 
-         if (json.internal.source == null) {
+         if (json.internal.source === " ") {
             $(".internal-build-inside").addClass("inc-source");
           } else{
             $(".internal-builds .btn").attr("href", json.internal.source);
