@@ -180,6 +180,8 @@ footer img{
   display: block;
   overflow: hidden;
   padding: 20px;
+  width: 250px;
+  height: auto;
   padding-bottom: 0px;
 }
 
