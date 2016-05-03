@@ -84,7 +84,7 @@ $( document ).ready(function() {
 
          var sourcelink = json.internal.source;
 
-         if (sourcelink === " ") {
+         if (sourcelink == "") {
            $(".internal-builds").addClass("inc-source");
          } else{
            $(".internal-builds .btn").attr("href", sourcelink);
