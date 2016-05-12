@@ -1,9 +1,9 @@
 {
     "pcwrp": {
-        "build": "10586.240",
+        "build": "10586.318",
         "version": "Threshold 2",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-10586-240-pcs-release-preview-ring/",
-        "release_date": "28th April, 2016"
+        "more": "http://mspoweruser.com/windows-10-build-10586-318-now-available-for-pcs/",
+        "release_date": "10th May, 2016"
     },
     "pcwif": {
         "build": "14342",
@@ -18,10 +18,10 @@
         "release_date": "25th March, 2016"
     },
     "mowrp": {
-        "build": "10586.242",
+        "build": "10586.318",
         "version": "Threshold 2",
-        "more": "http://mspoweruser.com/windows-mobile-10-build-10586-242-pushed-release-preview-ring/",
-        "release_date": "27th April, 2016"
+        "more": "http://mspoweruser.com/windows-10-mobile-build-10586-318-now-available/",
+        "release_date": "10th May, 2016"
     },
     "mowif": {
         "build": "14332",
