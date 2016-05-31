@@ -30,10 +30,10 @@
         "release_date": "19th May, 2016"
     },
     "mowis": {
-        "build": "14295.1005",
+        "build": "14342.1004",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-mobile-build-14295-1005-released-to-insider-slow-ring/",
-        "release_date": "22nd April, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/05/16/announcing-windows-10-mobile-insider-preview-build-14342/",
+        "release_date": "31st May, 2016"
     },
     "internal":{
       "build": "14357",
