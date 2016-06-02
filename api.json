@@ -18,16 +18,16 @@
         "release_date": "18th May, 2016"
     },
     "mowrp": {
-        "build": "10586.318",
+        "build": "10586.338",
         "version": "Threshold 2",
-        "more": "http://mspoweruser.com/windows-10-mobile-build-10586-318-now-available/",
-        "release_date": "10th May, 2016"
+        "more": "mspoweruser.com/windows-10-mobile-build-10586-338-now-available-release-preview-ring/",
+        "release_date": "2nd June, 2016"
     },
     "mowif": {
-        "build": "14342",
+        "build": "14356",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/05/16/announcing-windows-10-mobile-insider-preview-build-14342/",
-        "release_date": "19th May, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/06/01/announcing-windows-10-mobile-insider-preview-build-14356/",
+        "release_date": "31st May, 2016"
     },
     "mowis": {
         "build": "14342.1004",
