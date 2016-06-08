@@ -20,7 +20,7 @@
     "mowrp": {
         "build": "10586.338",
         "version": "Threshold 2",
-        "more": "mspoweruser.com/windows-10-mobile-build-10586-338-now-available-release-preview-ring/",
+        "more": "http://mspoweruser.com/windows-10-mobile-build-10586-338-now-available-release-preview-ring/",
         "release_date": "2nd June, 2016"
     },
     "mowif": {
@@ -36,7 +36,7 @@
         "release_date": "31st May, 2016"
     },
     "internal":{
-      "build": "14361",
+      "build": "14362",
       "source": ""
     }
 }
