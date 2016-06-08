@@ -6,10 +6,10 @@
         "release_date": "2nd June, 2016"
     },
     "pcwif": {
-        "build": "14352",
+        "build": "14361",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/05/26/announcing-windows-10-insider-preview-build-14352/",
-        "release_date": "26th May, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/06/08/announcing-windows-10-insider-preview-build-14361/",
+        "release_date": "8th June, 2016"
     },
     "pcwis": {
         "build": "14342",
@@ -24,10 +24,10 @@
         "release_date": "2nd June, 2016"
     },
     "mowif": {
-        "build": "14356",
+        "build": "14361",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/06/01/announcing-windows-10-mobile-insider-preview-build-14356/",
-        "release_date": "31st May, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/06/08/announcing-windows-10-insider-preview-build-14361/",
+        "release_date": "8th June, 2016"
     },
     "mowis": {
         "build": "14342.1004",
