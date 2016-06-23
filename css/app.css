@@ -128,7 +128,7 @@ img {
     text-transform: uppercase;
     font-weight: 400;
     font-size: 22px;
-    font-family: "Segoe UI Semilight","Segoe UI","Selawik Semilight",Tahoma,Verdana,Arial,sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 .internal-build-inside a,
 .internal-build-inside a:hover,

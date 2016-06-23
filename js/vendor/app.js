@@ -49,11 +49,11 @@ $( document ).ready(function() {
          var int_dev_more = json.internal.more;
          var int_dev_date = json.internal.release_date;
 
-         //Internal Prod
-         var int_prod_build = json.internalprod.build;
-         var int_prod_version = json.internalprod.version;
-         var int_prod_more = json.internalprod.more;
-         var int_prod_date = json.internalprod.release_date;
+         //Internal Servicing
+         var int_cs_build = json.internalcs.build;
+         var int_cs_version = json.internalcs.version;
+         var int_cs_more = json.internalcs.more;
+         var int_cs_date = json.internalcs.release_date;
 
          //release dates
          $(".insider-builds .list-builds #i-pc .insider-release-preview .release-date").append(pc_wrp_date);
@@ -65,7 +65,7 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-slow .release-date").append(mo_wis_date);
 
          $(".internal-builds .internal-dev-branch .release-date").append(int_dev_date);
-         $(".internal-builds .internal-prod-branch .release-date").append(int_prod_date);
+         $(".internal-builds .internal-cs-branch .release-date").append(int_cs_date);
 
          //version names
          $(".insider-builds .list-builds #i-pc .insider-release-preview .build-version").append(pc_wrp_version);
@@ -77,7 +77,7 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-slow .build-version").append(mo_wis_version);
 
          $(".internal-builds .internal-dev-branch .build-version").append(int_dev_version);
-         $(".internal-builds .internal-prod-branch .build-version").append(int_prod_version);
+         $(".internal-builds .internal-cs-branch .build-version").append(int_cs_version);
 
          //build numbers
          $(".insider-builds .list-builds #i-pc .insider-release-preview .build-number").append(pc_wrp_build);
@@ -89,7 +89,7 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-slow .build-number").append(mo_wis_build);
 
          $(".internal-builds .internal-dev-branch .build-number").append(int_dev_build);
-         $(".internal-builds .internal-prod-branch .build-number").append(int_prod_build);
+         $(".internal-builds .internal-cs-branch .build-number").append(int_cs_build);
 
          //build links
          $(".insider-builds .list-builds #i-pc .insider-release-preview a").attr("href", pc_wrp_more);
@@ -101,7 +101,7 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-slow a").attr("href", mo_wis_more);
          
          $(".internal-builds .internal-dev-branch a").attr("href", int_dev_more);
-         $(".internal-builds .internal-prod-branch a").attr("href", int_prod_more);
+         $(".internal-builds .internal-cs-branch a").attr("href", int_cs_more);
         
     }
   });
