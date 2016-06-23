@@ -50,10 +50,10 @@ $( document ).ready(function() {
          var int_dev_date = json.internal.release_date;
 
          //Internal Servicing
-         var int_cs_build = json.internalcs.build;
-         var int_cs_version = json.internalcs.version;
-         var int_cs_more = json.internalcs.more;
-         var int_cs_date = json.internalcs.release_date;
+         var int_cs_build = json.internalservice.build;
+         var int_cs_version = json.internalservice.version;
+         var int_cs_more = json.internalservice.more;
+         var int_cs_date = json.internalservice.release_date;
 
          //release dates
          $(".insider-builds .list-builds #i-pc .insider-release-preview .release-date").append(pc_wrp_date);
