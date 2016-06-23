@@ -80,7 +80,7 @@ img {
     margin-top: 20px;
 }
 @media (max-width: 1398px) {
-    .col-md-8 { width: 31% }
+    .col-md-8 {width: 32.89%;}
     .internal-build-inside { width: 93% }
 }
 @media (max-width: 900px) {
@@ -186,3 +186,34 @@ footer li a:focus { text-decoration: none }
     border-color: #fff !important;
 }
 .inc-source .btn { display: none }
+
+.internal-builds .col-md-12{
+    width: 49.5%;
+    padding-left: 0px;
+}
+
+.internal-prod-branch{
+    padding-right: 5px;
+}
+
+@media (max-width: 1290px){
+    .insider-builds .col-md-8{
+        width: 32.88%;
+    }
+}
+
+@media (max-width: 1262px){
+    .insider-builds .col-md-8{
+        width: 32.87%;
+    }
+}
+
+@media (max-width: 1235px){
+    .insider-builds .col-md-8, .internal-builds .col-md-12{
+        width: 100%;
+        margin-bottom: 10px;
+        margin-left: 0 !important;
+        padding: 0px !important;
+        margin-right: 0 !important;
+    }
+}

@@ -43,6 +43,18 @@ $( document ).ready(function() {
          var mo_wis_more = json.mowis.more;
          var mo_wis_date = json.mowis.release_date;
 
+         //Internal Dev
+         var int_dev_build = json.internal.build;
+         var int_dev_version = json.internal.version;
+         var int_dev_more = json.internal.more;
+         var int_dev_date = json.internal.release_date;
+
+         //Internal Prod
+         var int_prod_build = json.internalprod.build;
+         var int_prod_version = json.internalprod.version;
+         var int_prod_more = json.internalprod.more;
+         var int_prod_date = json.internalprod.release_date;
+
          //release dates
          $(".insider-builds .list-builds #i-pc .insider-release-preview .release-date").append(pc_wrp_date);
          $(".insider-builds .list-builds #i-pc .insider-fast .release-date").append(pc_wif_date);
@@ -51,6 +63,9 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-release-preview .release-date").append(mo_wrp_date);
          $(".insider-builds .list-builds #i-mobile .insider-fast .release-date").append(mo_wif_date);
          $(".insider-builds .list-builds #i-mobile .insider-slow .release-date").append(mo_wis_date);
+
+         $(".internal-builds .internal-dev-branch .release-date").append(int_dev_date);
+         $(".internal-builds .internal-prod-branch .release-date").append(int_prod_date);
 
          //version names
          $(".insider-builds .list-builds #i-pc .insider-release-preview .build-version").append(pc_wrp_version);
@@ -61,6 +76,9 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-fast .build-version").append(mo_wif_version);
          $(".insider-builds .list-builds #i-mobile .insider-slow .build-version").append(mo_wis_version);
 
+         $(".internal-builds .internal-dev-branch .build-version").append(int_dev_version);
+         $(".internal-builds .internal-prod-branch .build-version").append(int_prod_version);
+
          //build numbers
          $(".insider-builds .list-builds #i-pc .insider-release-preview .build-number").append(pc_wrp_build);
          $(".insider-builds .list-builds #i-pc .insider-fast .build-number").append(pc_wif_build);
@@ -70,6 +88,9 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-fast .build-number").append(mo_wif_build);
          $(".insider-builds .list-builds #i-mobile .insider-slow .build-number").append(mo_wis_build);
 
+         $(".internal-builds .internal-dev-branch .build-number").append(int_dev_build);
+         $(".internal-builds .internal-prod-branch .build-number").append(int_prod_build);
+
          //build links
          $(".insider-builds .list-builds #i-pc .insider-release-preview a").attr("href", pc_wrp_more);
          $(".insider-builds .list-builds #i-pc .insider-fast a").attr("href", pc_wif_more);
@@ -78,17 +99,10 @@ $( document ).ready(function() {
          $(".insider-builds .list-builds #i-mobile .insider-release-preview a").attr("href", mo_wrp_more);
          $(".insider-builds .list-builds #i-mobile .insider-fast a").attr("href", mo_wif_more);
          $(".insider-builds .list-builds #i-mobile .insider-slow a").attr("href", mo_wis_more);
-
-         $(".internal-builds .internal-build-inside h3").append(json.internal.build);
-         $(".internal-build-text").append("According to our sources, Microsoft is currently testing Windows 10 Build " + json.internal.build + " internally. Of course, Microsoft is testing new builds everyday, so this build may not be the very latest one. However, check back in a few hours to get more updates or <a href='http://twitter.com/InsideTen_' target='_blank'>follow us on Twitter here.</a>");
-
-         var sourcelink = json.internal.source;
-
-         if (sourcelink == "") {
-           $(".internal-builds").addClass("inc-source");
-         } else{
-           $(".internal-builds .btn").attr("href", sourcelink);
-         }
+         
+         $(".internal-builds .internal-dev-branch a").attr("href", int_dev_more);
+         $(".internal-builds .internal-prod-branch a").attr("href", int_prod_more);
+        
     }
   });
 });
