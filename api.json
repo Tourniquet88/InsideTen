@@ -36,15 +36,15 @@
         "release_date": "28th June, 2016"
     },
     "internal":{
-        "build": "14380",
+        "build": "14382",
         "version": "Redstone 1",
         "more": "",
-        "release_date": "1st July, 2016"
+        "release_date": "3rd July, 2016"
     },
     "internalservice":{
-        "build": "10586.492",
+        "build": "10586.494",
         "version": "Threshold 2",
         "more": "",
-        "release_date": "30th June, 2016"
+        "release_date": "3rd July, 2016"
     }
 }
