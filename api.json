@@ -6,10 +6,10 @@
         "release_date": "29th June, 2016"
     },
     "pcwif": {
-        "build": "14379",
+        "build": "14383",
         "version": "Redstone 1",
-        "more": "http://aka.ms/14379wip",
-        "release_date": "30th June, 2016"
+        "more": "https://blogs.windows.com/buildingapps/2016/07/07/windows-10-anniversary-sdk-preview-build-14383-released/",
+        "release_date": "7th July, 2016"
     },
     "pcwis": {
         "build": "14372",
@@ -24,10 +24,10 @@
         "release_date": "29th June, 2016"
     },
     "mowif": {
-        "build": "14379",
+        "build": "14383",
         "version": "Redstone 1",
-        "more": "http://aka.ms/14379wip",
-        "release_date": "30th June, 2016"
+        "more": "https://blogs.windows.com/buildingapps/2016/07/07/windows-10-anniversary-sdk-preview-build-14383-released/",
+        "release_date": "7th July, 2016"
     },
     "mowis": {
         "build": "14372",
