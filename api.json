@@ -1,9 +1,9 @@
 {
     "pcwrp": {
-        "build": "10586.456",
+        "build": "10586.494",
         "version": "Threshold 2",
-        "more": "http://mspoweruser.com/windows-10-mobile-build-10586-456-released-to-release-preview/",
-        "release_date": "29th June, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-10586-494-for-pcs-and-mobile/",
+        "release_date": "12th July, 2016"
     },
     "pcwif": {
         "build": "14385",
@@ -18,10 +18,10 @@
         "release_date": "28th June, 2016"
     },
     "mowrp": {
-        "build": "10586.456",
+        "build": "10586.494",
         "version": "Threshold 2",
-        "more": "http://mspoweruser.com/windows-10-mobile-build-10586-456-released-to-release-preview/",
-        "release_date": "29th June, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-10586-494-for-pcs-and-mobile/",
+        "release_date": "12th July, 2016"
     },
     "mowif": {
         "build": "14385",
