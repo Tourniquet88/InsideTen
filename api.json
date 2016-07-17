@@ -6,16 +6,16 @@
         "release_date": "12th July, 2016"
     },
     "pcwif": {
+        "build": "14390",
+        "version": "Redstone 1",
+        "more": "https://blogs.windows.com/windowsexperience/2016/07/15/announcing-windows-10-insider-preview-build-14390-for-pc-and-mobile/",
+        "release_date": "15th July, 2016"
+    },
+    "pcwis": {
         "build": "14388",
         "version": "Redstone 1",
         "more": "https://aka.ms/14388wip",
-        "release_date": "12th July, 2016"
-    },
-    "pcwis": {
-        "build": "14372",
-        "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/06/23/announcing-windows-10-insider-preview-build-14372-for-pc-and-mobile/",
-        "release_date": "28th June, 2016"
+        "release_date": "15th July, 2016"
     },
     "mowrp": {
         "build": "10586.494",
@@ -24,16 +24,16 @@
         "release_date": "12th July, 2016"
     },
     "mowif": {
+        "build": "14390",
+        "version": "Redstone 1",
+        "more": "https://blogs.windows.com/windowsexperience/2016/07/15/announcing-windows-10-insider-preview-build-14390-for-pc-and-mobile/",
+        "release_date": "15th July, 2016"
+    },
+    "mowis": {
         "build": "14388",
         "version": "Redstone 1",
         "more": "https://aka.ms/14388wip",
-        "release_date": "12th July, 2016"
-    },
-    "mowis": {
-        "build": "14372",
-        "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/06/23/announcing-windows-10-insider-preview-build-14372-for-pc-and-mobile/",
-        "release_date": "28th June, 2016"
+        "release_date": "15th July, 2016"
     },
     "internal":{
         "build": "14391",
