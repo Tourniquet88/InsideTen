@@ -12,10 +12,10 @@
         "release_date": "18th July, 2016"
     },
     "pcwis": {
-        "build": "14388",
+        "build": "14393",
         "version": "Redstone 1",
-        "more": "https://aka.ms/14388wip",
-        "release_date": "15th July, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
+        "release_date": "21st July, 2016"
     },
     "mowrp": {
         "build": "10586.494",
@@ -30,10 +30,10 @@
         "release_date": "18th July, 2016"
     },
     "mowis": {
-        "build": "14388",
+        "build": "14393",
         "version": "Redstone 1",
-        "more": "https://aka.ms/14388wip",
-        "release_date": "15th July, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
+        "release_date": "21st July, 2016"
     },
     "internal":{
         "build": "14393",
