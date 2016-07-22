@@ -6,10 +6,10 @@
         "release_date": "12th July, 2016"
     },
     "pcwif": {
-        "build": "14393",
+        "build": "14393.3",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
-        "release_date": "18th July, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-3-to-insiders/",
+        "release_date": "22nd July, 2016"
     },
     "pcwis": {
         "build": "14393",
@@ -24,10 +24,10 @@
         "release_date": "12th July, 2016"
     },
     "mowif": {
-        "build": "14393",
+        "build": "14393.3",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
-        "release_date": "18th July, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-3-to-insiders/",
+        "release_date": "22nd July, 2016"
     },
     "mowis": {
         "build": "14393",
