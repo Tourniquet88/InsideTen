@@ -37,9 +37,9 @@
     },
     "internal":{
         "build": "N/A",
-        "version": "Redstone 1",
+        "version": "",
         "more": "",
-        "release_date": "24th July, 2016"
+        "release_date": ""
     },
     "internalservice":{
         "build": "14393.5",
