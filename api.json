@@ -1,39 +1,39 @@
 {
     "pcwrp": {
-        "build": "10586.494",
-        "version": "Threshold 2",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-10586-494-for-pcs-and-mobile/",
-        "release_date": "12th July, 2016"
+        "build": "10593.5",
+        "version": "Redstone 1",
+        "more": "https://t.co/pXCp74H64e",
+        "release_date": "28th July, 2016"
     },
     "pcwif": {
-        "build": "14393.3",
+        "build": "14393.5",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-3-to-insiders/",
-        "release_date": "22nd July, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-5-to-insiders-for-pcs-and-mobile/",
+        "release_date": "25th July, 2016"
     },
     "pcwis": {
-        "build": "14393",
+        "build": "10593.5",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
-        "release_date": "21st July, 2016"
+        "more": "https://t.co/pXCp74H64e",
+        "release_date": "28th July, 2016"
     },
     "mowrp": {
-        "build": "10586.494",
-        "version": "Threshold 2",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-10586-494-for-pcs-and-mobile/",
-        "release_date": "12th July, 2016"
+        "build": "10593.5",
+        "version": "Redstone 1",
+        "more": "https://t.co/pXCp74H64e",
+        "release_date": "28th July, 2016"
     },
     "mowif": {
-        "build": "14393.3",
+        "build": "14393.5",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-3-to-insiders/",
-        "release_date": "22nd July, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-5-to-insiders-for-pcs-and-mobile/",
+        "release_date": "25th July, 2016"
     },
     "mowis": {
-        "build": "14393",
+        "build": "10593.5",
         "version": "Redstone 1",
-        "more": "https://blogs.windows.com/windowsexperience/2016/07/18/build14393/",
-        "release_date": "21st July, 2016"
+        "more": "https://t.co/pXCp74H64e",
+        "release_date": "28th July, 2016"
     },
     "internal":{
         "build": "N/A",
