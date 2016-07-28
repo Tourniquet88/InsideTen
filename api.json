@@ -42,9 +42,9 @@
         "release_date": ""
     },
     "internalservice":{
-        "build": "14393.5",
+        "build": "14393.31",
         "version": "Redstone 1",
         "more": "",
-        "release_date": "24th July, 2016"
+        "release_date": "28th July, 2016"
     }
 }
