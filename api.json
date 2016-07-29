@@ -36,10 +36,10 @@
         "release_date": "28th July, 2016"
     },
     "internal":{
-        "build": "N/A",
-        "version": "",
+        "build": "14894.1000",
+        "version": "Redstone 2",
         "more": "",
-        "release_date": ""
+        "release_date": "29th July, 2016"
     },
     "internalservice":{
         "build": "14393.31",
