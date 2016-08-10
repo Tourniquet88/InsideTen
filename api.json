@@ -1,45 +1,45 @@
 {
     "pcwrp": {
-        "build": "14393.10",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-cumulative-update-build-14393-10-available-for-the-fast-ring-slow-ring-and-release-preview-users/",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "2nd August, 2016"
     },
     "pcwif": {
-        "build": "14393.10",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-cumulative-update-build-14393-10-available-for-the-fast-ring-slow-ring-and-release-preview-users/",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "2nd August, 2016"
     },
     "pcwis": {
-        "build": "14393.10",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-cumulative-update-build-14393-10-available-for-the-fast-ring-slow-ring-and-release-preview-users/",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "2nd August, 2016"
     },
     "mowrp": {
-        "build": "14393.5",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "https://t.co/pXCp74H64e",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "28th July, 2016"
     },
     "mowif": {
-        "build": "14393.5",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-5-to-insiders-for-pcs-and-mobile/",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "25th July, 2016"
     },
     "mowis": {
-        "build": "14393.5",
+        "build": "14393.67",
         "version": "Redstone 1",
-        "more": "https://t.co/pXCp74H64e",
+        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
         "release_date": "28th July, 2016"
     },
     "internal":{
-        "build": "14901.1000",
+        "build": "14902.1000",
         "version": "Redstone 2",
         "more": "",
-        "release_date": "7th August, 2016"
+        "release_date": "9th August, 2016"
     },
     "internalservice":{
         "build": "14393.67",
