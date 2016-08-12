@@ -6,10 +6,10 @@
         "release_date": "9th August, 2016"
     },
     "pcwif": {
-        "build": "14393.67",
-        "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
-        "release_date": "9th August, 2016"
+        "build": "14901.1000",
+        "version": "Redstone 2",
+        "more": "http://mspoweruser.com/microsoft-releases-first-windows-10-redstone-2-build-insiders/",
+        "release_date": "11th August, 2016"
     },
     "pcwis": {
         "build": "14393.67",
@@ -36,7 +36,7 @@
         "release_date": "9th August, 2016"
     },
     "internal":{
-        "build": "14902.1000",
+        "build": "14903.1000",
         "version": "Redstone 2",
         "more": "",
         "release_date": "9th August, 2016"
