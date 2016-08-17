@@ -1,15 +1,15 @@
 {
     "pcwrp": {
-        "build": "14393.67",
+        "build": "14393.82",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
-        "release_date": "9th August, 2016"
+        "more": "http://mspoweruser.com/windows-10-build-14393-82-released-to-release-preview-for-pcs-and-mobile/",
+        "release_date": "16th August, 2016"
     },
     "pcwif": {
-        "build": "14901.1000",
+        "build": "14905",
         "version": "Redstone 2",
-        "more": "http://mspoweruser.com/microsoft-releases-first-windows-10-redstone-2-build-insiders/",
-        "release_date": "11th August, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/",
+        "release_date": "17th August, 2016"
     },
     "pcwis": {
         "build": "14393.67",
@@ -18,16 +18,16 @@
         "release_date": "9th August, 2016"
     },
     "mowrp": {
-        "build": "14393.67",
+        "build": "14393.82",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
-        "release_date": "9th August, 2016"
+        "more": "http://mspoweruser.com/windows-10-build-14393-82-released-to-release-preview-for-pcs-and-mobile/",
+        "release_date": "16th August, 2016"
     },
     "mowif": {
-        "build": "14393.67",
-        "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-67-now-available-insiders/",
-        "release_date": "9th August, 2016"
+        "build": "14905",
+        "version": "Redstone 2",
+        "more": "https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/",
+        "release_date": "17th August, 2016"
     },
     "mowis": {
         "build": "14393.67",
