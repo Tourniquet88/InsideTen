@@ -6,10 +6,10 @@
         "release_date": "25th August, 2016"
     },
     "pcwif": {
-        "build": "14905",
+        "build": "14915",
         "version": "Redstone 2",
-        "more": "https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/",
-        "release_date": "17th August, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/08/31/announcing-windows-10-insider-preview-build-14915-for-pc-and-mobile/#JEB37B6qidAtrPgo.97",
+        "release_date": "31st August, 2016"
     },
     "pcwis": {
         "build": "14393.103",
@@ -24,10 +24,10 @@
         "release_date": "25th August, 2016"
     },
     "mowif": {
-        "build": "14905",
+        "build": "14915",
         "version": "Redstone 2",
-        "more": "https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/",
-        "release_date": "17th August, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/08/31/announcing-windows-10-insider-preview-build-14915-for-pc-and-mobile/#JEB37B6qidAtrPgo.97",
+        "release_date": "31st August, 2016"
     },
     "mowis": {
         "build": "14393.103",
@@ -36,10 +36,10 @@
         "release_date": "25th August, 2016"
     },
     "internal":{
-        "build": "14918.1000",
+        "build": "14920.1000",
         "version": "Redstone 2",
         "more": "",
-        "release_date": "2nd September, 2016"
+        "release_date": "4th September, 2016"
     },
     "internalservice":{
         "build": "14393.82",
