@@ -1,9 +1,9 @@
 {
     "pcwrp": {
-        "build": "14393.103",
+        "build": "14393.105",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-103-released-insiders-slow-release-preview-rings/",
-        "release_date": "25th August, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-105-for-insiders/",
+        "release_date": "31st August, 2016"
     },
     "pcwif": {
         "build": "14915",
@@ -18,10 +18,10 @@
         "release_date": "25th August, 2016"
     },
     "mowrp": {
-        "build": "14393.103",
+        "build": "14393.105",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-103-released-insiders-slow-release-preview-rings/",
-        "release_date": "25th August, 2016"
+        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-105-for-insiders/",
+        "release_date": "31st August, 2016"
     },
     "mowif": {
         "build": "14915",
@@ -42,9 +42,9 @@
         "release_date": "4th September, 2016"
     },
     "internalservice":{
-        "build": "14393.82",
+        "build": "14393.105",
         "version": "Redstone 1",
         "more": "",
-        "release_date": "22nd August, 2016"
+        "release_date": "31st August, 2016"
     }
 }
