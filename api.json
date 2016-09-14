@@ -1,39 +1,39 @@
 {
     "pcwrp": {
-        "build": "14393.105",
+        "build": "14393.187",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-105-for-insiders/",
-        "release_date": "31st August, 2016"
+        "more": "https://support.microsoft.com/en-us/help/12387/windows-10-update-history",
+        "release_date": "13th September, 2016"
     },
     "pcwif": {
-        "build": "14915",
+        "build": "14926",
         "version": "Redstone 2",
-        "more": "https://blogs.windows.com/windowsexperience/2016/08/31/announcing-windows-10-insider-preview-build-14915-for-pc-and-mobile/#JEB37B6qidAtrPgo.97",
-        "release_date": "31st August, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/09/14/announcing-windows-10-insider-preview-build-14926-for-pc-and-mobile/#XVTMqTC0Ou5MsJvo.97",
+        "release_date": "14th September, 2016"
     },
     "pcwis": {
-        "build": "14393.103",
+        "build": "14393.187",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-103-released-insiders-slow-release-preview-rings/",
-        "release_date": "25th August, 2016"
+        "more": "https://support.microsoft.com/en-us/help/12387/windows-10-update-history",
+        "release_date": "13th September, 2016"
     },
     "mowrp": {
-        "build": "14393.105",
+        "build": "14393.187",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/microsoft-releases-windows-10-build-14393-105-for-insiders/",
-        "release_date": "31st August, 2016"
+        "more": "https://support.microsoft.com/en-us/help/12387/windows-10-update-history",
+        "release_date": "14th September, 2016"
     },
     "mowif": {
-        "build": "14915",
+        "build": "14926",
         "version": "Redstone 2",
-        "more": "https://blogs.windows.com/windowsexperience/2016/08/31/announcing-windows-10-insider-preview-build-14915-for-pc-and-mobile/#JEB37B6qidAtrPgo.97",
-        "release_date": "31st August, 2016"
+        "more": "https://blogs.windows.com/windowsexperience/2016/09/14/announcing-windows-10-insider-preview-build-14926-for-pc-and-mobile/#XVTMqTC0Ou5MsJvo.97",
+        "release_date": "14th September, 2016"
     },
     "mowis": {
-        "build": "14393.103",
+        "build": "14393.187",
         "version": "Redstone 1",
-        "more": "http://mspoweruser.com/windows-10-build-14393-103-released-insiders-slow-release-preview-rings/",
-        "release_date": "25th August, 2016"
+        "more": "https://support.microsoft.com/en-us/help/12387/windows-10-update-history",
+        "release_date": "14th September, 2016"
     },
     "internal":{
         "build": "14927.1000",
